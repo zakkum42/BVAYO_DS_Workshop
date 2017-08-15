@@ -1,2 +1,4 @@
+*.csv
+*.csv.gz
 .ipynb_checkpoints
 debug.log

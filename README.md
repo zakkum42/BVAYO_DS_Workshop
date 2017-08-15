@@ -20,7 +20,7 @@ Contents:
 * [Exploratory Data Analysis - Numeric Features](BVAYO/04_exploring_numeric_features.ipynb)
 * [Model Development - Basic XGBoost Model](BVAYO/05-develop_xgboost_model.ipynb)
 
-You shall skip [Pandas Tutorial](BVAYO/00-pandas_tutorial.ipynb) if you don't need it. Other notebooks shall run in order.
+You may skip [Pandas Tutorial](BVAYO/00-pandas_tutorial.ipynb) if you don't need it. Other notebooks shall run in order.
 
 Have fun.
 
